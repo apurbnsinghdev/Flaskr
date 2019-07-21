@@ -1,0 +1,22 @@
+profiles
+E:\safedns>python test.py
+[{u'name': u'Default', 
+u'default': True, 
+u'white_list_only': False, 
+u'token': 2137476508, 
+u'safe_search_enabled': False, 
+u'is_schedule_enabled': False, 
+u'id': 71294}]
+
+E:\safedns>python test.py
+
+
+
+E:\safedns>python test.py
+{u'blockapi': u'195.46.39.2', u'blockpage_token': u'195.46.39.2', 
+u'public_dns': [u'195.46.39.39', u'195.46.39.40'], 
+u'nxdomain': u'195.46.39.4', 
+u'blockpage': u'195.46.39.1'
+}
+
+E:\safedns>
